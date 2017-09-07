@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504811025 source:c:\users\figaza\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504755570 c:\users\figaza\desktop\tp_1_cascara\funciones.h
+
+1504739727 source:c:\users\figaza\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
